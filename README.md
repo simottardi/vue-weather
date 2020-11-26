@@ -10,18 +10,18 @@ Search for a city to know what the weather is like there. Try searching for a co
 
 ## Used technologies and concepts
 
-- [Vue.js] ⭐
-- [HTML]
+- Vue.js
+- HTML
 
 ## Goals for this project
 
-The goal of this project is to familiarize with Vue. During this project I learned
+TIn this project my objective was to familiarize with Vue, and I learned about:
 
-- input control in Vue
-- responsive styling in Vue
-- send an API request in Vue
-- display data in Vue
-- deploy a Vue app on Netlify
+- input control in Vue,
+- responsive styling in Vue,
+- send an API request in Vue,
+- display data in Vue,
+- deploy a Vue app on Netlify.
 
 ## Contacts
 
